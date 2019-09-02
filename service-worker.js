@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/codefordenver.org/precache-manifest.5e9082a8316b3050b189c3a83e34f52c.js"
+  "/codefordenver.org/precache-manifest.24578917a44ddbf13b776f242bf8e6b3.js"
 );
 
 self.addEventListener('message', (event) => {
