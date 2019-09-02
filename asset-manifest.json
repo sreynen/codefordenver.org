@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/codefordenver.org/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/codefordenver.org/static/js/main.35488ebe.chunk.js",
+    "main.js.map": "/codefordenver.org/static/js/main.35488ebe.chunk.js.map",
+    "runtime~main.js": "/codefordenver.org/static/js/runtime~main.de513784.js",
+    "runtime~main.js.map": "/codefordenver.org/static/js/runtime~main.de513784.js.map",
+    "static/css/2.71d6b03b.chunk.css": "/codefordenver.org/static/css/2.71d6b03b.chunk.css",
+    "static/js/2.6fb76469.chunk.js": "/codefordenver.org/static/js/2.6fb76469.chunk.js",
+    "static/js/2.6fb76469.chunk.js.map": "/codefordenver.org/static/js/2.6fb76469.chunk.js.map",
+    "index.html": "/codefordenver.org/index.html",
+    "precache-manifest.5e9082a8316b3050b189c3a83e34f52c.js": "/codefordenver.org/precache-manifest.5e9082a8316b3050b189c3a83e34f52c.js",
+    "service-worker.js": "/codefordenver.org/service-worker.js",
+    "static/css/2.71d6b03b.chunk.css.map": "/codefordenver.org/static/css/2.71d6b03b.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/codefordenver.org/static/css/main.5ecd60fb.chunk.css.map",
+    "static/media/semantic.min.css": "/codefordenver.org/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
