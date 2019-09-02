@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62531caa7d131b00f29df6f1b6e70fd4",
+    "revision": "d5e60a4b5715a4206c5a75abf06d6b35",
     "url": "/codefordenver.org/index.html"
   },
   {
-    "revision": "947f527629a2a004da90",
+    "revision": "900cd6cefdf00bc57eba",
     "url": "/codefordenver.org/static/css/2.71d6b03b.chunk.css"
   },
   {
-    "revision": "9f938e398b955b377596",
-    "url": "/codefordenver.org/static/css/main.5ecd60fb.chunk.css"
+    "revision": "051f926f971638b8b7c0",
+    "url": "/codefordenver.org/static/css/main.5d270938.chunk.css"
   },
   {
-    "revision": "947f527629a2a004da90",
-    "url": "/codefordenver.org/static/js/2.c07ca4e4.chunk.js"
+    "revision": "900cd6cefdf00bc57eba",
+    "url": "/codefordenver.org/static/js/2.41939f2a.chunk.js"
   },
   {
-    "revision": "9f938e398b955b377596",
-    "url": "/codefordenver.org/static/js/main.c3c00141.chunk.js"
+    "revision": "051f926f971638b8b7c0",
+    "url": "/codefordenver.org/static/js/main.bb157140.chunk.js"
   },
   {
-    "revision": "0527c34d22c23a9a9080",
-    "url": "/codefordenver.org/static/js/runtime~main.de513784.js"
+    "revision": "2959403bd3b7b49a5fb0",
+    "url": "/codefordenver.org/static/js/runtime~main.36bec444.js"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
