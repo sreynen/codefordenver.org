@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5e60a4b5715a4206c5a75abf06d6b35",
+    "revision": "5fb96534f466732b84922e2ce2e1f542",
     "url": "/codefordenver.org/index.html"
   },
   {
-    "revision": "900cd6cefdf00bc57eba",
+    "revision": "bb223fa3de03388545b0",
     "url": "/codefordenver.org/static/css/2.71d6b03b.chunk.css"
   },
   {
-    "revision": "051f926f971638b8b7c0",
+    "revision": "ae828bff51a762f8da32",
     "url": "/codefordenver.org/static/css/main.5d270938.chunk.css"
   },
   {
-    "revision": "900cd6cefdf00bc57eba",
-    "url": "/codefordenver.org/static/js/2.41939f2a.chunk.js"
+    "revision": "bb223fa3de03388545b0",
+    "url": "/codefordenver.org/static/js/2.b9d22964.chunk.js"
   },
   {
-    "revision": "051f926f971638b8b7c0",
-    "url": "/codefordenver.org/static/js/main.bb157140.chunk.js"
+    "revision": "ae828bff51a762f8da32",
+    "url": "/codefordenver.org/static/js/main.48f1ccd5.chunk.js"
   },
   {
     "revision": "2959403bd3b7b49a5fb0",
